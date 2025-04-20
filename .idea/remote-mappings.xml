@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://wangy@192.168.1.191:22/home/wangy/miniconda3/envs/GNN/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/wangy/code/HGNN-master" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://wangy@192.168.1.203:22/home/wangy/miniconda3/envs/GNN/bin/python3.8">
+          <settings>
+            <list>
+              <mapping local-root="F:/浙江师范大学/0 博士期间论文集/论文3/初步探索/HGNN-new-master" remote-root="/home/wangy/code/HGNN-new-master" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
